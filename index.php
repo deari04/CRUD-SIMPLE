@@ -31,7 +31,7 @@
             <thead>
                 <tr>
                     <th>No</th>
-                    <th>Nama</th>
+                    <th>Nama Lengkap</th>
                     <th>Prodi</th>
                     <th>Jurusan</th>
                     <th>Alamat</th>
